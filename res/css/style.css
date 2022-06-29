@@ -490,7 +490,6 @@
   .contact-address {
     margin-top: 48px;
     padding-top: 32px;
-    border-top: 1px solid #dfdfdf;
   }
 }
 
@@ -710,4 +709,21 @@
   .row .features-box:last-child {
     margin-bottom: 0;
   }
+}
+
+.row.margin-4.no-margin-rl.no-margin-bottom
+{
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.contact-address{
+  border-top: 1px solid #dfdfdf;
+padding-top: 10px;
+}
+
+.row{
+  margin-right: 50px;
 }
