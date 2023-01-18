@@ -1,6 +1,7 @@
 ![Hackathon logo](res/images/logos/light.png)
+![Hackathon logo](res/images/logos/zoho-logo.png)
 
-> Event website for AUST Hackathon
+> Event website for AUST Hackathon Sponsored By HackRF/AUST/
 
 ## License
 
